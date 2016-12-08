@@ -9,7 +9,7 @@ import java.io.IOException;
 import model.*;
 
 /**
- * Created by chitboon on 10/23/15.
+ * Created by 154400m on 12/8/16.
  */
 @WebServlet(name = "BookDetailServlet", urlPatterns = "/bookdetails")
 public class BookDetailServlet extends HttpServlet {
